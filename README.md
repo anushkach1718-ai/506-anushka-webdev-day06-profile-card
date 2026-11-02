@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Anushka Chaturvedi — Profile Card Project
 
 A responsive, single-file profile page created as part of the **Web Development Day 6 Assignment** based on CSS Box Model, Display, and Positioning concepts.
@@ -42,3 +43,6 @@ A responsive, single-file profile page created as part of the **Web Development 
 
 **Anushka Chaturvedi**  
 B.Tech CSE Student
+=======
+# 506-anushka-webdev-day06-profile-card
+>>>>>>> 0b6c1c2a27249225b548b80223be100a4f8465b6
