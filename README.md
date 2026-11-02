@@ -38,6 +38,9 @@ A responsive, single-file profile page created as part of the **Web Development 
 ## Repository Name
 
 `506-anushka-webdev-day06-profile-card`
+## screenshot of website
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d20f6cfc-53a1-4025-9f46-552cd97dc403" />
+
 
 ## Author
 
